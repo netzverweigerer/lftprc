@@ -1,0 +1,4 @@
+set ssl:verify-certificate false;
+set ssl:check-hostname false;
+
+
